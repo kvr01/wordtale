@@ -1,2 +1,2 @@
 # wordtale
-Generate (folk) etymologies
+Generate (folk) etymologies.
